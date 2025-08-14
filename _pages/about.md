@@ -25,6 +25,7 @@ I am a first-year Data Science Ph.D. student at University of Virginia. I am ver
 # 🔥 News
 - *2025.08*: I started my PhD study at University of Virginia!
 - *2025.07*: &nbsp;🎉🎉 Our paper [Efficent and Robust Continual Graph Learning for Graph Classification in Biology](https://ieeexplore.ieee.org/abstract/document/11095837) is published at IEEE-TSIPN!
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
