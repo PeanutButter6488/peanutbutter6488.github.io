@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Data Science Ph.D. student at University of Virginia. I am very fortunate to be advised by Professor [Chirag Agarwal](https://chirag-agarwall.github.io/). My research interest focuses on graph representation learning, explainable AI, and AI4Science. I enjoy playing tennis, soccer, and piano! I am working "hard" on learning guitar...
+I am a first year Data Science Ph.D. student at University of Virginia. I am very fortunate to be advised by Professor [Chirag Agarwal](https://chirag-agarwall.github.io/). My research interest focuses on graph representation learning, explainable AI, and AI4Science. I enjoy playing tennis, soccer, and piano. I am working "hard" on learning guitar...
 
 
 # 🔥 News
@@ -38,7 +38,7 @@ I am a first-year Data Science Ph.D. student at University of Virginia. I am ver
 
 
 # 📖 Educations
-- *2025.08 - (now)*, Ph.D. in Data Science, University of Virginia, Charlottesville, VA, USA
+- *2025.08 - now*, Ph.D. in Data Science, University of Virginia, Charlottesville, VA, USA
 - *2023.09 - 2025.03*, M.S. in Computer Science, Northwestern University, Evanston, IL, USA
 - *2019.08 - 2023.05*, B.S. in Computer Science and Engineering, Bucknell University, Lewisburg, PA, USA
 
