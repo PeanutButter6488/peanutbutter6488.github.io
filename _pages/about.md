@@ -35,7 +35,7 @@ I am a first-year Data Science Ph.D. student at University of Virginia. I am ver
 
 
 # 🎖 Honors and Awards
-- *2020 - 2023* Dean's List, Bucknell University  -->
+- *2020 - 2023* Dean's List, Bucknell University
 
 # 📖 Educations
 - *2025.08 - (now)*, Ph.D. in Data Science, University of Virginia, Charlottesville, VA, USA
