@@ -26,7 +26,7 @@ I am a first-year Data Science Ph.D. student at University of Virginia. I am ver
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TSIPN</div><img src='images/pscgl_rebuttal.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TSIPN</div><img src='images/pscgl_rebuttal.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficent and Robust Continual Graph Learning for Graph Classification in Biology](https://ieeexplore.ieee.org/abstract/document/11095837)
